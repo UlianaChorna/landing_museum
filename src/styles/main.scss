@@ -1,11 +1,11 @@
 @import "utils";
 @import "fonts";
 @import "typography";
-@import "./blocks/header.scss";
-@import "./blocks/top_bar.scss";
-@import "./blocks/icon.scss";
-@import "./blocks/menu.scss";
-@import "./blocks/page.scss";
+@import "blocks/header";
+@import "blocks/top_bar";
+@import "blocks/icon";
+@import "blocks/menu";
+@import "blocks/page.scss";
 @import "blocks/nav.scss";
 @import "blocks/section-title.scss";
 @import "blocks/event.scss";
